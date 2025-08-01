@@ -50,6 +50,14 @@ It includes:
 
 https://drive.google.com/file/d/1E_KsevNByg52zsvuID2k-MPOoxwiyO07/view?usp=sharing
 
+---
+
+## 🖼 APK Drive Link
+
+https://drive.google.com/file/d/1XfG_uHLTZbiuCEUlLS7VdQ53N-SydnYy/view?usp=drive_link
+
+---
+
 ## 🖼 Screens Included
 
 1. **SplashScreen** – Shows app splash with a 2-second delay  
