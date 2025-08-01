@@ -48,7 +48,7 @@ It includes:
 
 ## 🖼 Preview Video
 
-
+https://drive.google.com/file/d/1E_KsevNByg52zsvuID2k-MPOoxwiyO07/view?usp=sharing
 
 ## 🖼 Screens Included
 
